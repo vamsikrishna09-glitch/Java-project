@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello, CI/CD World");
+        System.out.println("Hello, CI/CD World it is updated now");
 
         int a = 10;
         int b = 20;
